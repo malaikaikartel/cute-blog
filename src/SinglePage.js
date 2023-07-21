@@ -52,6 +52,9 @@ const SinglePage = ({ match }) => {
               👧<a href={article.authorlink}>{article.author}</a> ⏰{' '}
               {article.date}
             </p>
+<script type="text/javascript" src="https://app.adaround.net/main.js" async></script>
+<div class="_fa7cdd4c68507744" data-placement="9e18829cbb784a86b0ac14ba664e65c3" style="width:300px;height:250px;display: inline-block;margin: 0 auto"></div>
+
             <p className="dotted" />
             {article.content.map((paragraph, key) => (
               <p key={key}>{paragraph}</p>
