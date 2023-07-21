@@ -15,6 +15,9 @@ const ArticleList = ({ articles }) => (
           </a>
         </p>
       </div>
+
+<div class="_fa7cdd4c68507744" data-placement="9e18829cbb784a86b0ac14ba664e65c3" style="width:300px;height:250px;display: inline-block;margin: 0 auto"></div>
+
     ))}
     {articles.map((article, key) => (
       <div className="col-md-4 p-3">
