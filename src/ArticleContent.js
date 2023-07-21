@@ -10,6 +10,9 @@ const articles = [
     content: [
       `Cuteblog for react is designed specially for react js, so with this source code project or free template themes for react make you fast and easy to build modern blogging website using react js and cuteblog.`,
       `Super fast and of course we have injection with auto generated SEO for this project, yes.. we use helmet !!`,
+
+<div class="_fa7cdd4c68507744" data-placement="9e18829cbb784a86b0ac14ba664e65c3" style="width:300px;height:250px;display: inline-block;margin: 0 auto"></div>
+
       `With this concept so you can just focusing on your content article .`,
       `Cuteblog react adalah sebuah tema dan template yang khusus diperuntukan untuk library react js, dan dengan tema ini tentunya harapan kami selaku pengembang memudahkan mu untuk membuat webiste dan blog dengan cepat. `,
       `Persembahan dari axcora technology untuk dunia agar dapat membuat sebuah website dan blog modern berbasis react dengan konsep blog.`,
